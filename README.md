@@ -1,6 +1,6 @@
 # Introdução ao Python
 
-Este repositório registra meu primeiro contato com a linguagem Python! Ele possui exercícios com algumas funções para solucionar problemas (básicos) diversos.
+Este repositório registra meu primeiro contato com a linguagem `Python`! Ele possui exercícios com algumas funções para solucionar problemas (básicos) diversos.
 
 ## Detalhes
 
@@ -8,9 +8,9 @@ Este repositório registra meu primeiro contato com a linguagem Python! Ele poss
   <summary><strong>Objetivos:</strong></summary>
   <br />
   <ul>
-    <li>Utilizar o terminal interativo do Python.</li>
+    <li>Utilizar o terminal interativo do `Python`.</li>
     <li>Utilizar estruturas condicionais e de repetição.</li>
-    <li>Aptar as boas práticas de desenvolvimento em Python.</li>
+    <li>Adaptar as boas práticas de desenvolvimento em `Python`.</li>
     <li>Escrever funções.</li>
   </ul>
 </details>
@@ -18,6 +18,7 @@ Este repositório registra meu primeiro contato com a linguagem Python! Ele poss
 <details>
   <summary><strong>Linter:</strong></summary>
   <br />
+  
   Para garantir a qualidade do código, foi utilizado nesses exercícios o linter `Flake8`.
   Para garantir que os códigos estão alinhado com as boas práticas de desenvolvimento, sendo mais legível
   e de fácil manutenção!
@@ -35,9 +36,9 @@ Este repositório registra meu primeiro contato com a linguagem Python! Ele poss
   <br />
 
   O arquivo `dev-requirements.txt` contém todas as dependências que serão utilizadas.
-  > wheel
-  > black
-  > flake8
+  > - `wheel`
+  > - `black`
+  > - `flake8`
 
   1. **criar e ativar o ambiente virtual**
 
@@ -52,7 +53,8 @@ Este repositório registra meu primeiro contato com a linguagem Python! Ele poss
   ```
 
   Com o ambiente virtual ativo, as dependências serão instaladas neste ambiente.
-  Quando precisar desativar o ambiente virtual, execute o comando "deactivate".
+  Quando precisar desativar o ambiente virtual, execute o comando `deactivate`.
+  
 </details>
 
 ## Exercícios

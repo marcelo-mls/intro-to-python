@@ -59,10 +59,12 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 ## Exercícios
 
-- `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles
-
 - `src/average.py` : Calcula a média aritmética dos valores contidos em uma lista
 
 - `src/biggest_name.py` : Cria uma função que recebe uma lista de nomes e retorna o nome com a maior quantidade de caracteres.
 
+- `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles
+
 - `src/square.py` : Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.
+
+- `src/triangle_checker.py` : Recebe 3 valores e informa se é possível formar um triangulo e qual o seu tipo.

@@ -59,14 +59,10 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 ## Exercícios
 
-### Cria uma função que recebe dois números e retorna o maior deles
-> **Implementado em:** `src/biggest_number.py`
+- `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles
 
-### Calcula a média aritmética dos valores contidos em uma lista
-> **Implementado em:** `src/average.py`
+- `src/average.py` : Calcula a média aritmética dos valores contidos em uma lista
 
-### Cria uma função que recebe uma lista de nomes e retorna o nome com a maior quantidade de caracteres.
-> **Implementado em:** `src/biggest_name.py`
+- `src/biggest_name.py` : Cria uma função que recebe uma lista de nomes e retorna o nome com a maior quantidade de caracteres.
 
-### Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.
-> **Implementado em:** `src/square.py`
+- `src/square.py` : Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.

@@ -67,3 +67,6 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 ### Cria uma função que recebe uma lista de nomes e retorna o nome com a maior quantidade de caracteres.
 > **Implementado em:** `src/biggest_name.py`
+
+### Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.
+> **Implementado em:** `src/square.py`

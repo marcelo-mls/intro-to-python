@@ -67,4 +67,6 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/square.py` : Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.
 
+- `src/summation.py` : Recebe vários números e calcule a soma deles. Caso algum valor seja inválido (`string`), uma mensagem é exibida informando o erro. Ao final, a soma dos valores válidos é imprimida.
+
 - `src/triangle_checker.py` : Recebe 3 valores e informa se é possível formar um triangulo e qual o seu tipo.

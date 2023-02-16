@@ -1,6 +1,6 @@
 try:
-    file = open("src/student_grades.txt", mode="r")
-    new_file = open("src/student_disapproved.txt", mode="w")
+    file = open("src/assets/student_grades.txt", mode="r")
+    new_file = open("src/assets/student_disapproved.txt", mode="w")
 
     content = file.read()
     array_of_student = content.split("\n")

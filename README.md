@@ -59,18 +59,20 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 ## Exercícios
 
-- `src/average.py` : Calcula a média aritmética dos valores contidos em uma lista
+- `src/average.py` : Calcula a média aritmética dos valores contidos em uma lista;
 
-- `src/biggest_name.py` : Cria uma função que recebe uma lista de nomes e retorna o nome com a maior quantidade de caracteres.
+- `src/biggest_name.py` : Cria uma função que recebe uma lista de nomes e retorna o nome com a maior quantidade de caracteres;
 
-- `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles
+- `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles;
 
-- `src/open_close_file.py` : Treina comandos de Leitura e escrita em arquivos
+- `src/json_pokemons.py` : Realiza manipulação do arquivo `src/assets/pokemons.json`;
 
-- `src/read_student_grades.py` : Lê o arquivo `src/assets/student_grades.txt` contendo notas de estudantes. Aplica um filtro e escreve os nomes dos que estão reprovadas (<6) no arquivo `src/assets/student_disapproved.txt`.
+- `src/open_close_file.py` : Treina comandos de Leitura e escrita em arquivos;
 
-- `src/square.py` : Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.
+- `src/read_student_grades.py` : Lê o arquivo `src/assets/student_grades.txt` contendo notas de estudantes. Aplica um filtro e escreve os nomes dos que estão reprovadas (<6) no arquivo `src/assets/student_disapproved.txt`;
 
-- `src/summation.py` : Recebe vários números e calcule a soma deles. Caso algum valor seja inválido (`string`), uma mensagem é exibida informando o erro. Ao final, a soma dos valores válidos é imprimida.
+- `src/square.py` : Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos;
 
-- `src/triangle_checker.py` : Recebe 3 valores e informa se é possível formar um triangulo e qual o seu tipo.
+- `src/summation.py` : Recebe vários números e calcule a soma deles. Caso algum valor seja inválido (`string`), uma mensagem é exibida informando o erro. Ao final, a soma dos valores válidos é imprimida;
+
+- `src/triangle_checker.py` : Recebe 3 valores e informa se é possível formar um triangulo e qual o seu tipo;

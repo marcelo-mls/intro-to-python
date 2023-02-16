@@ -2,6 +2,8 @@
 file = open("arquivo.txt", mode="w")
 lines = ["Primeiro\n", "contato\n", "com\n", "a\n", "linguagem\n", "Python\n"]
 file.writelines(lines)
+file.write("Outro método\n")
+print("Mais um método", file=file)
 file.close()  # sempre lembrar de fechar
 
 # leitura

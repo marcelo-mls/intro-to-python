@@ -67,7 +67,7 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/open_close_file.py` : Treina comandos de Leitura e escrita em arquivos
 
-- `src/read_student_grades.py` : Lê um arquivo contendo notas de estudantes. Aplica um filtro e escreve os nomes dos que estão reprovadas (<6) em outro arquivo.
+- `src/read_student_grades.py` : Lê o arquivo `src/student_grades.txt` contendo notas de estudantes. Aplica um filtro e escreve os nomes dos que estão reprovadas (<6) no arquivo `src/student_disapproved.txt`.
 
 - `src/square.py` : Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.
 

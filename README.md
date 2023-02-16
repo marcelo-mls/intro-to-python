@@ -65,6 +65,8 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles
 
+- `src/open_close_file.py` : Treina comandos de Leitura e escrita em arquivos
+
 - `src/square.py` : Recebe um valor `n` qualquer, sendo `n > 1`, e imprime um quadrado `n x n` feito de asteriscos.
 
 - `src/summation.py` : Recebe vários números e calcule a soma deles. Caso algum valor seja inválido (`string`), uma mensagem é exibida informando o erro. Ao final, a soma dos valores válidos é imprimida.

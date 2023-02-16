@@ -1,8 +1,9 @@
 try:
     file = open("src/student_grades.txt", mode="r")
+    new_file = open("src/student_disapproved.txt", mode="w")
+
     content = file.read()
     array_of_student = content.split("\n")
-    new_file = open("src/student_disapproved.txt", mode="w")
 
     for line in array_of_student:
         student = line.split(" ")
@@ -15,5 +16,7 @@ except OSError:
 else:
     print("arquivo manipulado e fechado com sucesso")
 finally:
+    print(file.closed, new_file.closed)
     file.close()  # sempre lembrar de fechar
     new_file.close()  # sempre lembrar de fechar
+    print(file.closed, new_file.closed)

@@ -1,0 +1,9 @@
+Bruce 10
+Clark 5
+Lois 10
+Homer 4
+Marge 6
+Peter 5
+Harley 9
+Ivy 7
+Stan 3

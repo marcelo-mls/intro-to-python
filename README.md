@@ -65,7 +65,7 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles;
 
-- `src/json_pokemons.py` : Realiza manipulação do arquivo `src/assets/pokemons.json`;
+- `src/json_pokemons.py` : Realiza manipulação dos arquivos `src/assets/pokemons.json` e `src/assets/pokemons_type.json`;
 
 - `src/open_close_file.py` : Treina comandos de Leitura e escrita em arquivos;
 

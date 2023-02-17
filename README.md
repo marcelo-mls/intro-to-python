@@ -65,7 +65,7 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles;
 
-- `src/json_pokemons.py` : Realiza manipulação dos arquivos `src/assets/pokemons.json` e `src/assets/pokemons_type.json`;
+- `src/json_pokemons.py` : Realiza manipulação dos arquivos JSON `src/assets/pokemons.json` e `src/assets/pokemons_type.json`;
 
 - `src/open_close_file.py` : Treina comandos de Leitura e escrita em arquivos;
 
@@ -76,3 +76,6 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 - `src/summation.py` : Recebe vários números e calcule a soma deles. Caso algum valor seja inválido (`string`), uma mensagem é exibida informando o erro. Ao final, a soma dos valores válidos é imprimida;
 
 - `src/triangle_checker.py` : Recebe 3 valores e informa se é possível formar um triangulo e qual o seu tipo;
+
+- `src/unb_analysis.py` : Realiza manipulação dos arquivos CSV `src/assets/unb_graduacao.csv` e `src/assets/unb_result.csv`;;
+

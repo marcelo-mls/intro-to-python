@@ -77,5 +77,5 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/triangle_checker.py` : Recebe 3 valores e informa se é possível formar um triangulo e qual o seu tipo;
 
-- `src/unb_analysis.py` : Realiza manipulação dos arquivos CSV `src/assets/unb_graduacao.csv` e `src/assets/unb_result.csv`;;
+- `src/unb_analysis.py` : Realiza manipulação dos arquivos CSV `src/assets/unb_graduacao.csv` e `src/assets/unb_result.csv`;
 

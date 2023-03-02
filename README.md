@@ -12,6 +12,8 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
     <li>Utilizar estruturas condicionais e de repetição.</li>
     <li>Adaptar as boas práticas de desenvolvimento em `Python`.</li>
     <li>Escrever funções.</li>
+    <li>Escrever teste.</li>
+    <li>Programação Orientada a Objetos.</li>
   </ul>
 </details>
 
@@ -59,13 +61,13 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 ## Exercícios
 
+### Fundamentos
+
 - `src/average.py` : Calcula a média aritmética dos valores contidos em uma lista;
 
 - `src/biggest_name.py` : Cria uma função que recebe uma lista de nomes e retorna o nome com a maior quantidade de caracteres;
 
 - `src/biggest_number.py` : Cria uma função que recebe dois números e retorna o maior deles;
-
-- `src/download_youtube/baixar_video_youtube.py` : Realiza Download de vídeos do yotube e salva na mesma pasta`;
 
 - `src/json_pokemons.py` : Realiza manipulação dos arquivos JSON `src/assets/pokemons.json` e `src/assets/pokemons_type.json`;
 
@@ -81,3 +83,10 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/unb_analysis.py` : Realiza manipulação dos arquivos CSV `src/assets/unb_graduacao.csv` e `src/assets/unb_result.csv`;
 
+### POO
+
+- `src/poo_python/person.py` : Fundamentos de POO e inicio dos estudos de classe, métodos e atributos;
+
+### Extras
+
+- `src/download_youtube/baixar_video_youtube.py` : Realiza Download de vídeos do youtube e salva na mesma pasta;

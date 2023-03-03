@@ -86,9 +86,11 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 ### POO
 > `src/poo_python/*`
 
-- `class_fundamentals/person.py` : Fundamentos de POO e inicio dos estudos de classe, métodos e atributos;
+- `class_fundamentals/*.py` : Fundamentos de POO e inicio dos estudos de classe, métodos e atributos;
+
+- `encapsulation/*.py` : Conceitos de encapsulamento, Private, Protected e Public. Além de rever Getter e Setter;
 
 ### Extras
 > `src/extras/*`
 
-- `baixar_video_youtube.py` : Realiza Download de vídeos do youtube e salva na mesma pasta;
+- `baixar_video_youtube.py` : Realiza Download de vídeos do YouTube e salva na mesma pasta;

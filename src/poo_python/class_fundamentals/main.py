@@ -15,7 +15,7 @@ person_one.speak("Another thing!")
 person_one.stop_speak()
 print(person_one.is_speaking)
 print(person_one.get_birth_year())
-print("=" * 20)
+print(f'\n{"=" * 20}')
 
 
 person_two = Person("Mellissa", 2001)
@@ -26,7 +26,7 @@ print(person_two.get_birth_year())
 print(person_two.age)
 print(person_two.set_id())
 print(Person.set_id())
-print("=" * 20)
+print(f'\n{"=" * 20}')
 
 
 person_three = Person("  sOuZA ", "1952")
@@ -34,4 +34,4 @@ person_three = Person("  sOuZA ", "1952")
 print(person_three.get_birth_year())
 print(person_three.age)
 print(person_three.name)
-print("=" * 20)
+print(f'\n{"=" * 20}')

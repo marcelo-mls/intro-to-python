@@ -3,7 +3,7 @@ from random import randint
 
 
 class Person:
-    greet = "Class Person initiate"
+    greet = "\nClass Person initiate\n"
     current_year = int(datetime.strftime(datetime.now(), "%Y"))
 
     # 'Self' se refere a instancia que será criada

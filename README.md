@@ -83,10 +83,12 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/unb_analysis.py` : Realiza manipulação dos arquivos CSV `src/assets/unb_graduacao.csv` e `src/assets/unb_result.csv`;
 
-### POO `src/poo_python/*`
+### POO
+> `src/poo_python/*`
 
 - `class_fundamentals/person.py` : Fundamentos de POO e inicio dos estudos de classe, métodos e atributos;
 
-### Extras  `src/extras/*`
+### Extras
+> `src/extras/*`
 
 - `baixar_video_youtube.py` : Realiza Download de vídeos do youtube e salva na mesma pasta;

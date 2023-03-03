@@ -1,4 +1,4 @@
-from encapsulation import Database
+from Database import Database
 
 db = Database()
 

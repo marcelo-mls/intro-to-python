@@ -83,12 +83,16 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `src/unb_analysis.py` : Realiza manipulação dos arquivos CSV `src/assets/unb_graduacao.csv` e `src/assets/unb_result.csv`;
 
+
 ### POO
 > `src/poo_python/*`
 
 - `class_fundamentals/*.py` : Fundamentos de POO e inicio dos estudos de classe, métodos e atributos;
 
 - `encapsulation/*.py` : Conceitos de encapsulamento, Private, Protected e Public. Além de rever Getter e Setter;
+
+- `association/*.py` : Conceitos de associação;
+
 
 ### Extras
 > `src/extras/*`

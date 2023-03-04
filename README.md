@@ -91,7 +91,13 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - `encapsulation/*.py` : Conceitos de encapsulamento, Private, Protected e Public. Além de rever Getter e Setter;
 
-- `association/*.py` : Conceitos de associação;
+- `association/*.py` : auto explicativo;
+
+- `aggregation/*.py` : auto explicativo;
+
+- `composition/*.py` : auto explicativo;
+
+- `heritage/*.py` : apenas o básico de herança;
 
 
 ### Extras
